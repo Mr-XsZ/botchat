@@ -1,9 +1,9 @@
 ![Skrinsut](exam.png)
 ## Bot Chat
-* [Instalation](#install)
-* [Chat Admin](#chat)
+* [Instalation](#installation)
+* [Chat Admin](#chat-admin)
 
-## Instalation
+## Installation
 ```
 $ apt-get update
 $ apt install python
